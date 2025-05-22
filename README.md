@@ -22,7 +22,13 @@
 <img src="imgs/1.png" />
 
 ## 使用方法
-### 你可以使用我已经打包好的【合同审核.exe】文件，直接运行，直接使用，无需安装任何依赖，从右侧【Releases】中下载
+### 你可以使用我已经打包好的【合同审核v1.0版本.exe】文件，直接运行，直接使用，无需安装任何依赖
+
+下载方式：
+- 1.从右侧【Releases】中下载
+
+- 2. https://huggingface.co/jiangnanboy/Contract_Review 下载
+
 ### 或者利用本项目源码启动系统python contract_tool.py
 ### 上传合同
 系统启动后，在界面上选择要上传的合同文件，支持txt、docx以及pdf格式的合同文件。
