@@ -27,7 +27,7 @@
 下载方式：
 - 1.从右侧【Releases】中下载
 
-- 2. https://huggingface.co/jiangnanboy/Contract_Review 下载
+- 2.https://huggingface.co/jiangnanboy/Contract_Review 下载
 
 ### 或者利用本项目源码启动系统python contract_tool.py
 ### 上传合同
