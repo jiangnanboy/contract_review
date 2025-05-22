@@ -46,7 +46,7 @@
 <img src="imgs/7.png" />
 
 ### 导出报告
-点击导出按钮，选择需要的格式（txt、markdown或html），将分析结果保存到本地。
+选择文本->保存报告，选择需要的格式（txt、markdown或html），将分析结果保存到本地。
 
 <img src="imgs/8.png" />
 
